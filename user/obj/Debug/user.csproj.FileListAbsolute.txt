@@ -1,0 +1,148 @@
+D:\.net\internetdan yuklaganlarim\user\user\bin\Debug\user.exe.config
+D:\.net\internetdan yuklaganlarim\user\user\bin\Debug\user.exe
+D:\.net\internetdan yuklaganlarim\user\user\bin\Debug\user.pdb
+D:\.net\internetdan yuklaganlarim\user\user\obj\Debug\user.csproj.AssemblyReference.cache
+D:\.net\internetdan yuklaganlarim\user\user\obj\Debug\user.csproj.SuggestedBindingRedirects.cache
+D:\.net\internetdan yuklaganlarim\user\user\obj\Debug\user.Form1.resources
+D:\.net\internetdan yuklaganlarim\user\user\obj\Debug\user.Properties.Resources.resources
+D:\.net\internetdan yuklaganlarim\user\user\obj\Debug\user.csproj.GenerateResource.cache
+D:\.net\internetdan yuklaganlarim\user\user\obj\Debug\user.csproj.CoreCompileInputs.cache
+D:\.net\internetdan yuklaganlarim\user\user\obj\Debug\user.exe
+D:\.net\internetdan yuklaganlarim\user\user\obj\Debug\user.pdb
+D:\.net\internetdan yuklaganlarim\user\user\bin\Debug\x86\sqlite3.dll
+D:\.net\internetdan yuklaganlarim\user\user\bin\Debug\x64\sqlite3.dll
+D:\.net\internetdan yuklaganlarim\user\user\bin\Debug\EntityFramework.dll
+D:\.net\internetdan yuklaganlarim\user\user\bin\Debug\EntityFramework.SqlServer.dll
+D:\.net\internetdan yuklaganlarim\user\user\bin\Debug\Microsoft.Data.Sqlite.dll
+D:\.net\internetdan yuklaganlarim\user\user\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+D:\.net\internetdan yuklaganlarim\user\user\bin\Debug\SQLitePCLRaw.core.dll
+D:\.net\internetdan yuklaganlarim\user\user\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\.net\internetdan yuklaganlarim\user\user\bin\Debug\System.Buffers.dll
+D:\.net\internetdan yuklaganlarim\user\user\bin\Debug\System.Data.SQLite.dll
+D:\.net\internetdan yuklaganlarim\user\user\bin\Debug\System.Data.SQLite.EF6.dll
+D:\.net\internetdan yuklaganlarim\user\user\bin\Debug\System.Data.SQLite.Linq.dll
+D:\.net\internetdan yuklaganlarim\user\user\bin\Debug\System.Memory.dll
+D:\.net\internetdan yuklaganlarim\user\user\bin\Debug\System.Numerics.Vectors.dll
+D:\.net\internetdan yuklaganlarim\user\user\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\.net\internetdan yuklaganlarim\user\user\bin\Debug\EntityFramework.xml
+D:\.net\internetdan yuklaganlarim\user\user\bin\Debug\EntityFramework.SqlServer.xml
+D:\.net\internetdan yuklaganlarim\user\user\bin\Debug\Microsoft.Data.Sqlite.xml
+D:\.net\internetdan yuklaganlarim\user\user\bin\Debug\System.Buffers.xml
+D:\.net\internetdan yuklaganlarim\user\user\bin\Debug\System.Data.SQLite.xml
+D:\.net\internetdan yuklaganlarim\user\user\bin\Debug\System.Memory.xml
+D:\.net\internetdan yuklaganlarim\user\user\bin\Debug\System.Numerics.Vectors.xml
+D:\.net\internetdan yuklaganlarim\user\user\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\.net\internetdan yuklaganlarim\user\user\obj\Debug\user.csproj.CopyComplete
+D:\internetdan yuklaganlarim\user\user\bin\Debug\x86\sqlite3.dll
+D:\internetdan yuklaganlarim\user\user\bin\Debug\x64\sqlite3.dll
+D:\internetdan yuklaganlarim\user\user\bin\Debug\user.exe.config
+D:\internetdan yuklaganlarim\user\user\bin\Debug\user.exe
+D:\internetdan yuklaganlarim\user\user\bin\Debug\user.pdb
+D:\internetdan yuklaganlarim\user\user\bin\Debug\EntityFramework.dll
+D:\internetdan yuklaganlarim\user\user\bin\Debug\EntityFramework.SqlServer.dll
+D:\internetdan yuklaganlarim\user\user\bin\Debug\Microsoft.Data.Sqlite.dll
+D:\internetdan yuklaganlarim\user\user\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+D:\internetdan yuklaganlarim\user\user\bin\Debug\SQLitePCLRaw.core.dll
+D:\internetdan yuklaganlarim\user\user\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\internetdan yuklaganlarim\user\user\bin\Debug\System.Buffers.dll
+D:\internetdan yuklaganlarim\user\user\bin\Debug\System.Data.SQLite.dll
+D:\internetdan yuklaganlarim\user\user\bin\Debug\System.Data.SQLite.EF6.dll
+D:\internetdan yuklaganlarim\user\user\bin\Debug\System.Data.SQLite.Linq.dll
+D:\internetdan yuklaganlarim\user\user\bin\Debug\System.Memory.dll
+D:\internetdan yuklaganlarim\user\user\bin\Debug\System.Numerics.Vectors.dll
+D:\internetdan yuklaganlarim\user\user\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\internetdan yuklaganlarim\user\user\bin\Debug\EntityFramework.xml
+D:\internetdan yuklaganlarim\user\user\bin\Debug\EntityFramework.SqlServer.xml
+D:\internetdan yuklaganlarim\user\user\bin\Debug\Microsoft.Data.Sqlite.xml
+D:\internetdan yuklaganlarim\user\user\bin\Debug\System.Buffers.xml
+D:\internetdan yuklaganlarim\user\user\bin\Debug\System.Data.SQLite.xml
+D:\internetdan yuklaganlarim\user\user\bin\Debug\System.Memory.xml
+D:\internetdan yuklaganlarim\user\user\bin\Debug\System.Numerics.Vectors.xml
+D:\internetdan yuklaganlarim\user\user\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\internetdan yuklaganlarim\user\user\obj\Debug\user.csproj.AssemblyReference.cache
+D:\internetdan yuklaganlarim\user\user\obj\Debug\user.csproj.SuggestedBindingRedirects.cache
+D:\internetdan yuklaganlarim\user\user\obj\Debug\user.exitt.resources
+D:\internetdan yuklaganlarim\user\user\obj\Debug\user.Form1.resources
+D:\internetdan yuklaganlarim\user\user\obj\Debug\user.Properties.Resources.resources
+D:\internetdan yuklaganlarim\user\user\obj\Debug\user.csproj.GenerateResource.cache
+D:\internetdan yuklaganlarim\user\user\obj\Debug\user.csproj.CoreCompileInputs.cache
+D:\internetdan yuklaganlarim\user\user\obj\Debug\user.csproj.CopyComplete
+D:\internetdan yuklaganlarim\user\user\obj\Debug\user.exe
+D:\internetdan yuklaganlarim\user\user\obj\Debug\user.pdb
+C:\Intel\internetdan yuklaganlarim\user\user\bin\Debug\x86\sqlite3.dll
+C:\Intel\internetdan yuklaganlarim\user\user\bin\Debug\x64\sqlite3.dll
+C:\Intel\internetdan yuklaganlarim\user\user\bin\Debug\user.exe.config
+C:\Intel\internetdan yuklaganlarim\user\user\bin\Debug\user.exe
+C:\Intel\internetdan yuklaganlarim\user\user\bin\Debug\user.pdb
+C:\Intel\internetdan yuklaganlarim\user\user\bin\Debug\EntityFramework.dll
+C:\Intel\internetdan yuklaganlarim\user\user\bin\Debug\EntityFramework.SqlServer.dll
+C:\Intel\internetdan yuklaganlarim\user\user\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Intel\internetdan yuklaganlarim\user\user\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Intel\internetdan yuklaganlarim\user\user\bin\Debug\SQLitePCLRaw.core.dll
+C:\Intel\internetdan yuklaganlarim\user\user\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Intel\internetdan yuklaganlarim\user\user\bin\Debug\System.Buffers.dll
+C:\Intel\internetdan yuklaganlarim\user\user\bin\Debug\System.Data.SQLite.dll
+C:\Intel\internetdan yuklaganlarim\user\user\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Intel\internetdan yuklaganlarim\user\user\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Intel\internetdan yuklaganlarim\user\user\bin\Debug\System.Memory.dll
+C:\Intel\internetdan yuklaganlarim\user\user\bin\Debug\System.Numerics.Vectors.dll
+C:\Intel\internetdan yuklaganlarim\user\user\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Intel\internetdan yuklaganlarim\user\user\bin\Debug\EntityFramework.xml
+C:\Intel\internetdan yuklaganlarim\user\user\bin\Debug\EntityFramework.SqlServer.xml
+C:\Intel\internetdan yuklaganlarim\user\user\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Intel\internetdan yuklaganlarim\user\user\bin\Debug\System.Buffers.xml
+C:\Intel\internetdan yuklaganlarim\user\user\bin\Debug\System.Data.SQLite.xml
+C:\Intel\internetdan yuklaganlarim\user\user\bin\Debug\System.Memory.xml
+C:\Intel\internetdan yuklaganlarim\user\user\bin\Debug\System.Numerics.Vectors.xml
+C:\Intel\internetdan yuklaganlarim\user\user\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Intel\internetdan yuklaganlarim\user\user\obj\Debug\user.csproj.AssemblyReference.cache
+C:\Intel\internetdan yuklaganlarim\user\user\obj\Debug\user.csproj.SuggestedBindingRedirects.cache
+C:\Intel\internetdan yuklaganlarim\user\user\obj\Debug\user.exitt.resources
+C:\Intel\internetdan yuklaganlarim\user\user\obj\Debug\user.Form1.resources
+C:\Intel\internetdan yuklaganlarim\user\user\obj\Debug\user.Properties.Resources.resources
+C:\Intel\internetdan yuklaganlarim\user\user\obj\Debug\user.csproj.GenerateResource.cache
+C:\Intel\internetdan yuklaganlarim\user\user\obj\Debug\user.csproj.CoreCompileInputs.cache
+C:\Intel\internetdan yuklaganlarim\user\user\obj\Debug\user.csproj.CopyComplete
+C:\Intel\internetdan yuklaganlarim\user\user\obj\Debug\user.exe
+C:\Intel\internetdan yuklaganlarim\user\user\obj\Debug\user.pdb
+C:\Intel\internetdan yuklaganlarim\user\user\obj\Debug\user.SOT.resources
+C:\Intel\internetdan yuklaganlarim\user\user\obj\Debug\user.TEST.resources
+C:\Intel\internetdan yuklaganlarim\user\user\obj\Debug\user.Krish_qismi.resources
+C:\Users\Soadatov_q\Desktop\Новая папка\YANGISI Hariy meros\Hariy meros\user\user\bin\Debug\x86\sqlite3.dll
+C:\Users\Soadatov_q\Desktop\Новая папка\YANGISI Hariy meros\Hariy meros\user\user\bin\Debug\x64\sqlite3.dll
+C:\Users\Soadatov_q\Desktop\Новая папка\YANGISI Hariy meros\Hariy meros\user\user\bin\Debug\user.exe.config
+C:\Users\Soadatov_q\Desktop\Новая папка\YANGISI Hariy meros\Hariy meros\user\user\bin\Debug\user.exe
+C:\Users\Soadatov_q\Desktop\Новая папка\YANGISI Hariy meros\Hariy meros\user\user\bin\Debug\user.pdb
+C:\Users\Soadatov_q\Desktop\Новая папка\YANGISI Hariy meros\Hariy meros\user\user\bin\Debug\EntityFramework.dll
+C:\Users\Soadatov_q\Desktop\Новая папка\YANGISI Hariy meros\Hariy meros\user\user\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Soadatov_q\Desktop\Новая папка\YANGISI Hariy meros\Hariy meros\user\user\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Soadatov_q\Desktop\Новая папка\YANGISI Hariy meros\Hariy meros\user\user\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Soadatov_q\Desktop\Новая папка\YANGISI Hariy meros\Hariy meros\user\user\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Soadatov_q\Desktop\Новая папка\YANGISI Hariy meros\Hariy meros\user\user\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Soadatov_q\Desktop\Новая папка\YANGISI Hariy meros\Hariy meros\user\user\bin\Debug\System.Buffers.dll
+C:\Users\Soadatov_q\Desktop\Новая папка\YANGISI Hariy meros\Hariy meros\user\user\bin\Debug\System.Data.SQLite.dll
+C:\Users\Soadatov_q\Desktop\Новая папка\YANGISI Hariy meros\Hariy meros\user\user\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Soadatov_q\Desktop\Новая папка\YANGISI Hariy meros\Hariy meros\user\user\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Soadatov_q\Desktop\Новая папка\YANGISI Hariy meros\Hariy meros\user\user\bin\Debug\System.Memory.dll
+C:\Users\Soadatov_q\Desktop\Новая папка\YANGISI Hariy meros\Hariy meros\user\user\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Soadatov_q\Desktop\Новая папка\YANGISI Hariy meros\Hariy meros\user\user\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Soadatov_q\Desktop\Новая папка\YANGISI Hariy meros\Hariy meros\user\user\bin\Debug\EntityFramework.xml
+C:\Users\Soadatov_q\Desktop\Новая папка\YANGISI Hariy meros\Hariy meros\user\user\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Soadatov_q\Desktop\Новая папка\YANGISI Hariy meros\Hariy meros\user\user\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\Soadatov_q\Desktop\Новая папка\YANGISI Hariy meros\Hariy meros\user\user\bin\Debug\System.Buffers.xml
+C:\Users\Soadatov_q\Desktop\Новая папка\YANGISI Hariy meros\Hariy meros\user\user\bin\Debug\System.Data.SQLite.xml
+C:\Users\Soadatov_q\Desktop\Новая папка\YANGISI Hariy meros\Hariy meros\user\user\bin\Debug\System.Memory.xml
+C:\Users\Soadatov_q\Desktop\Новая папка\YANGISI Hariy meros\Hariy meros\user\user\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Soadatov_q\Desktop\Новая папка\YANGISI Hariy meros\Hariy meros\user\user\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Soadatov_q\Desktop\Новая папка\YANGISI Hariy meros\Hariy meros\user\user\obj\Debug\user.csprojAssemblyReference.cache
+C:\Users\Soadatov_q\Desktop\Новая папка\YANGISI Hariy meros\Hariy meros\user\user\obj\Debug\user.exitt.resources
+C:\Users\Soadatov_q\Desktop\Новая папка\YANGISI Hariy meros\Hariy meros\user\user\obj\Debug\user.Form1.resources
+C:\Users\Soadatov_q\Desktop\Новая папка\YANGISI Hariy meros\Hariy meros\user\user\obj\Debug\user.Krish_qismi.resources
+C:\Users\Soadatov_q\Desktop\Новая папка\YANGISI Hariy meros\Hariy meros\user\user\obj\Debug\user.Properties.Resources.resources
+C:\Users\Soadatov_q\Desktop\Новая папка\YANGISI Hariy meros\Hariy meros\user\user\obj\Debug\user.SOT.resources
+C:\Users\Soadatov_q\Desktop\Новая папка\YANGISI Hariy meros\Hariy meros\user\user\obj\Debug\user.TEST.resources
+C:\Users\Soadatov_q\Desktop\Новая папка\YANGISI Hariy meros\Hariy meros\user\user\obj\Debug\user.csproj.GenerateResource.cache
+C:\Users\Soadatov_q\Desktop\Новая папка\YANGISI Hariy meros\Hariy meros\user\user\obj\Debug\user.csproj.CoreCompileInputs.cache
+C:\Users\Soadatov_q\Desktop\Новая папка\YANGISI Hariy meros\Hariy meros\user\user\obj\Debug\user.csproj.CopyComplete
+C:\Users\Soadatov_q\Desktop\Новая папка\YANGISI Hariy meros\Hariy meros\user\user\obj\Debug\user.exe
+C:\Users\Soadatov_q\Desktop\Новая папка\YANGISI Hariy meros\Hariy meros\user\user\obj\Debug\user.pdb
